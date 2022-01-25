@@ -1,0 +1,480 @@
+Angular: Convierte cualquier template HTML en una WebAPP
+https://www.udemy.com/course/html-hacia-angular/
+
+Cómo Programar para Emprendedores - HTML y CSS
+https://www.udemy.com/course/como-programar-para-emprendedores-html-y-css/
+
+Fundamentos de Programación Web para Principiantes
+https://www.udemy.com/course/fundamentos-de-programacion-web-para-principiantes/
+
+Desarrollo Web con HMTL, CSS y Bootstrap 4! Curso desde cero
+https://www.udemy.com/course/curso-html5-css3/
+
+Aprende PHP y MySQLi, conceptos básicos para principiantes.
+https://www.udemy.com/course/php-para-principiantes/
+
+Fundamentos de Bootstrap 4: Crea tu primer sitio responsive
+https://www.udemy.com/course/curso-fundamentos-de-bootstrap-4/
+
+Curso de FlexBox desde 0
+https://www.udemy.com/course/curso-de-flexbox-desde-0/
+
+Aprende a crear páginas web con HTML y CSS
+https://www.udemy.com/course/aprende-a-crear-paginas-web-con-html-y-css/
+
+PROBAR DJANGO | Crear una Aplicación Web
+https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python/
+
+Cómo Programar para Emprendedores - JavaScript
+https://www.udemy.com/course/curso-de-javascript/
+
+Curso de Desarrollo Web con HTML, CSS y JavaScript | Básico
+https://www.udemy.com/course/curso-de-desarrollo-web-con-html-css-y-javascript/
+
+De Novato a Desarrollador Exitoso
+https://www.udemy.com/course/de-novato-a-desarrollador-exitoso/
+
+jQuery y AJAX Desde Cero - La Guía Definitiva
+https://www.udemy.com/course/curso-de-jquery/
+
+Aprende Accesibilidad Web paso a paso
+https://www.udemy.com/course/aprende-accesibilidad-web-paso-a-paso/
+
+Aprende a crear tu primer sitio web con Laravel
+https://www.udemy.com/course/primeros-pasos-con-laravel/
+
+Programador web: Cookies y Sesiones en PHP
+https://www.udemy.com/course/programador-web-php-cookies-y-sesiones/
+
+React JS: La biblioteca de JS creada por Facebook
+https://www.udemy.com/course/react-js-inicia-en-el-mundo-de-los-frameworks-de-javascript/
+
+NestJS: Node + Typescript al estilo Angular para crear APIS
+https://www.udemy.com/course/nestjs-free/
+
+Aprende a crear páginas web con HTML5 y CSS3
+https://www.udemy.com/course/aprende-a-crear-paginas-web-con-html5-y-css3/
+
+Guía Completa de WordPress - Aprende a crear sitios web
+https://www.udemy.com/course/guia-completa-de-wordpress-aprende-a-crear-sitios-web/
+
+Tienda en línea con WordPress y WooCommerce - Guía Completa
+https://www.udemy.com/course/tienda-en-linea-con-wordpress-y-woocommerce-guia-completa/
+
+Como Crear un CRUD con PHP y SQL Server
+https://www.udemy.com/course/como-crear-un-crud-con-php-y-sql-server/
+
+Introducción a PHP y creación de un CRUD básico.
+https://www.udemy.com/course/introduccion-a-php-y-creacion-de-un-crud-basico/
+
+Diseño Web - Aprende creando un sitio web paso a paso
+https://www.udemy.com/course/diseno-web-aprende-creando-un-sitio-web/
+
+Introducción al desarrollo de temas WordPress
+https://www.udemy.com/course/introduccion-desarrollo-temas-wordpress/
+
+Introduccion a CodeIgniter
+https://www.udemy.com/course/introduccion-codeigniter/
+
+Aprende a publicar tus páginas web
+https://www.udemy.com/course/aprende-a-publicar-tus-paginas-web/
+
+Programación CNC - Fresadoras
+https://www.udemy.com/course/programacioncnc/
+
+►WORDPRESS◄ - Cómo crear páginas web para principiantes #1
+https://www.udemy.com/course/dominando-wordpress-paso-a-paso-y-desde-cero/
+
+Spring Boot: Recetas para el trabajo diario (Introducción)
+https://www.udemy.com/course/spring-boot-recetas-para-el-trabajo-diario-introduccion/
+
+Aprende a crear una página web desde 0
+https://www.udemy.com/course/aprende-a-crear-una-pagina-web-desde-0/
+
+Aprende Jquery para implementar tus aplicaciones web
+https://www.udemy.com/course/aprende-jquery-para-implementar-tus-aplicaciones-web/
+
+Fundamentos de Angular
+https://www.udemy.com/course/fundamentos-de-angular/
+
+Aprende Laravel - Modelos, Migraciones, Rutas, Vistas, etc
+https://www.udemy.com/course/aprende-laravel-modelos-migraciones-rutas-vistas-etc/
+
+¿Cómo crear una página web? Introducción a HTML5 y CSS3
+https://www.udemy.com/course/como-crear-una-pagina-web-introduccion-a-html5-y-css3/
+
+Primeros pasos con Vue.js | Vue en ejercicios
+https://www.udemy.com/course/primeros-pasos-con-el-framework-vuejs/
+
+Introducción a GraphQL desde las bases hasta crear APIs
+https://www.udemy.com/course/introduccion-a-graphql-desde-las-bases-hasta-crear-apis/
+
+Login y Registro de Usuarios con PHP y MySql
+https://www.udemy.com/course/login-con-php-jairo-galeas/
+
+CRUD Angular + NET Core + Entity Framework Core+SqlServer
+https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-coresqlserver/
+
+Componentes en Angular - 101 (principiantes)
+https://www.udemy.com/course/componentes-angular-101/
+
+AWS CloudFormation - Infraestructura como codigo
+https://www.udemy.com/course/cloudformation/
+
+Symfony 3 en producción - Subir y publicar proyectos web
+https://www.udemy.com/course/symfony-3-en-produccion-subir-y-publicar-proyectos-web/
+
+Curso Asp.Net MVC + Entity Framework para principiantes
+https://www.udemy.com/course/curso-aspnet-mvc-entity-framework-para-principiantes/
+
+Diseño Web Desde Cero Para Principiantes
+https://www.udemy.com/course/diseno-web-desde-cero-para-principiantes-gratis/
+
+CodeIgniter 4 de cero a Experto. El mejor framework de PHP
+https://www.udemy.com/course/tutorial-codeigniter-4-de-cero-a-experto/
+
+CRUD Angular + NET Core + Entity Framework Core + MySql
+https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-core-mysql/
+
+Función "mail" de PHP: Aprende a enviar emails con PHP
+https://www.udemy.com/course/enviar-email-con-php/
+
+Introducción Vue js 2 framework JAVASCRIPT desde CERO
+https://www.udemy.com/course/introduccion-vue-js-2-framework-javascript-desde-cero/
+
+Aprende Programación para Principiantes en PHP
+https://www.udemy.com/course/aprende-programacion-para-principiantes-en-php/
+
+App Empleados con Angular 11 y Firebase
+https://www.udemy.com/course/app-empleado-angular-firebase/
+
+Laravel para principiantes - Da los primeros pasos
+https://www.udemy.com/course/laravel-para-principiantes/
+
+WordPress Introducción Practica a Gutenberg el Nuevo Editor
+https://www.udemy.com/course/wordpress-introduccion-practica-a-gutenberg-el-nuevo-editor/
+
+Crea una página web profesional con HTML CSS y Javascript
+https://www.udemy.com/course/crea-una-pagina-web-profesional-con-html-css-y-javascript/
+
+Tailwind CSS - Fundamentos desde 0! ¿Mejor que Bootstrap 4?
+https://www.udemy.com/course/tailwindcss/
+
+Vue 3 JS: Iníciate en este Framework
+https://www.udemy.com/course/vue-3-js-iniciate-en-este-framework/
+
+CodeIgniter 3 y Laravel 7 para principiantes: Primeros pasos
+https://www.udemy.com/course/codeigniter-para-principiantes-primeros-pasos/
+
+CRUD Angular - Node - MEAN
+https://www.udemy.com/course/crud-productos-stack-mean/
+
+Crea tu blog con WordPress
+https://www.udemy.com/course/crea-tu-blog-con-wordpress/
+
+Socket.IO NodeJs. Aprende Websockets creando chat en vivo
+https://www.udemy.com/course/websockets-socketio-nodejs-que-son-websockets/
+
+Las bases para desarrollar una aplicación full stack MERN
+https://www.udemy.com/course/las-bases-para-desarrollar-una-aplicacion-full-stack-mern/
+
+Blazor para principiantes: Simple CRUD en Blazor con Dapper
+https://www.udemy.com/course/blazor-crud/
+
+Aprendiendo el Código de la Web (Front End)
+https://www.udemy.com/course/aprendiendo-el-codigo-de-la-web/
+
+Full-Stack CRUD con React JS, ASP.NET Core y SQL Server
+https://www.udemy.com/course/full-stack-crud-con-react-js-aspnet-core-y-sql-server/
+
+Curso Fundamental de ASP.Net Core Razor
+https://www.udemy.com/course/curso-aspnet-core-razor/
+
+CodeIgniter 3 de cero a Experto. El mejor framework de PHP
+https://www.udemy.com/course/codeigniter-desde-cero-tu-primera-aplicacion-web/
+
+Aprende a crear tu página web con Wordpress
+https://www.udemy.com/course/aprende-a-crear-tu-pagina-web-con-wordpress/
+
+HTML5 para NOVATOS: Introducción al DISEÑO WEB MODERNO 2021
+https://www.udemy.com/course/html5-para-novatos-introduccion-al-diseno-web-moderno/
+
+Aprende MVC con PHP 2020, Desde cero hasta un BackendAdmin
+https://www.udemy.com/course/aprende-php-con-mvc-2021-desde-cero-hasta-un-backend-admin/
+
+CREAR Documentos PDF directamente desde PHP
+https://www.udemy.com/course/reportes-pdf-con-php/
+
+Full-Stack CRUD con PHP, MySql, API Rest, PDO y React JS
+https://www.udemy.com/course/full-stack-php-y-react-js/
+
+Introducción a HTML
+https://www.udemy.com/course/introduccion-a-html/
+
+Curso básico de Angular 11 - Empieza con este framework JS
+https://www.udemy.com/course/curso-basico-de-angular-11-empieza-con-este-framework-js/
+
+Mejores herramientas para el DISEÑO WEB 2020
+https://www.udemy.com/course/herramientas-para-el-diseno-web/
+
+Introducción a Blazor
+https://www.udemy.com/course/curso-blazor-gratis/
+
+jQuery UI - Amplia los límites de jQuery
+https://www.udemy.com/course/jquery-ui-amplia-los-limites-de-jquery/
+
+Compodoc: Crea documentación en proyectos Angular/Ionic/TS
+https://www.udemy.com/course/compodoc-crea-documentacion-en-angular-ionic/
+
+Como instalar cualquier CMS en un Hosting
+https://www.udemy.com/course/como-instalar-cualquier-cms-en-un-hosting/
+
+Sistema de Asistencia con Huella Digital (C# y MySql) Prte I
+https://www.udemy.com/course/sistema-de-asistencia-con-huella-digital-csharp-y-mysql-prte-i/
+
+Introduccion al Diseño Web
+https://www.udemy.com/course/introduccion-al-web-responsive-html5-css3/
+
+Oracle APEX 20.1 & 19.2 - Workshop I
+https://www.udemy.com/course/oracle-application-express-workshop-i/
+
+Aplicación de tareas con Vue 3 + Net Core + EFC
+https://www.udemy.com/course/vue3-netcore/
+
+WebVR - Realidad Virtual con A-Frame para principiantes
+https://www.udemy.com/course/webvr-realidad-virtual-con-a-frame-para-principiantes/
+
+Masterclass: Web usando Next.js + TailwindCSS + Vercel
+https://www.udemy.com/course/masterclass-nextjs-tailwindcss/
+
+Curso básico de PHP | Empieza con este lenguaje de back-end
+https://www.udemy.com/course/curso-php-empieza-a-programar-back-end/
+
+Herramientas para el desarrollador web
+https://www.udemy.com/course/herramientas-para-el-desarrollador-web/
+
+Curso de Joomla 2.5 Paso a Paso
+https://www.udemy.com/course/aprende-joomla/
+
+Angular - Introducción a Pruebas Unitarias y TDD en Español
+https://www.udemy.com/course/angular-introduccion-a-pruebas-unitarias-y-tdd-en-espanol/
+
+Crea un reproductor de medios con JavaScript
+https://www.udemy.com/course/crea-un-reproductor-con-javascript/
+
+Introducción a Crear Páginas Web desde Cero en HTML 5
+https://www.udemy.com/course/introduccion-a-crear-paginas-web-desde-cero-en-html-5/
+
+Diseño web desde 0. Aprende PUG desde cero. Edición 2020
+https://www.udemy.com/course/pug-desde-cero/
+
+Aprende html5 y css3 creando una web de paneles solares
+https://www.udemy.com/course/aprende-html5-y-css3-creando-una-web-de-paneles-solares/
+
+Introduccion a Svelte JS nuevo Framework Javascript 2020
+https://www.udemy.com/course/introduccion-a-svelte-js-nuevo-framework-javascript-2020/
+
+Crea un sistema médico sencillo desde 0 con Bee Framework
+https://www.udemy.com/course/crea-un-sistema-medico-sencillo-desde-0-con-bee-framework/
+
+WordPress - 5 formas de hacer una migración exitosa
+https://www.udemy.com/course/wordpress-formas-de-hacer-una-migracion-exitosa/
+
+De 0 a 100 con Grunt JS
+https://www.udemy.com/course/de-0-a-100-con-grunt-js/
+
+Blazor. Aprende como crear tu primer CRUD
+https://www.udemy.com/course/blazor-aprende-como-crear-tu-primer-crud/
+
+Compras online con Laravel 6 & Stripe
+https://www.udemy.com/course/compras-online-con-laravel-6-stripe-ecommerce/
+
+Aprende a usar el servicio Rest en Drupal 7
+https://www.udemy.com/course/aprende-a-usar-el-servicio-rest-en-drupal7-y-drupal8/
+
+WordPress Gutenberg: Introducción al nuevo editor
+https://www.udemy.com/course/wordpress-editor-gutenberg/
+
+Curso Practico de Django-Crear sitios web Personal
+https://www.udemy.com/course/curso-practico-django/
+
+Crear PAGINA WEB con WORDPRESS 2020 Paso a Paso
+https://www.udemy.com/course/crear-pagina-web-con-wordpress-paso-a-paso/
+
+Aprende a Crear Paginas De Internet con HTML Desde Cero
+https://www.udemy.com/course/aprende-a-crear-paginas-de-internet-con-html-desde-cero/
+
+Escuela de JavaScript 2021 - De cero a Master en JavaScript
+https://www.udemy.com/course/curso-completo-javascript/
+
+Como migrar Wordpress y no morir en el intento
+https://www.udemy.com/course/como-migrar-wordpress-y-no-morir-en-el-intento/
+
+Aprende a subir Laravel, Symfony y Drupal a un Hosting Share
+https://www.udemy.com/course/aprende-a-subir-laravel-symfony-y-drupal-a-un-hosting-share/
+
+Cómo subir múltiples archivos en Laravel
+https://www.udemy.com/course/como-subir-multiples-archivos-en-laravel/
+
+Bootstrap 4 desde cero
+https://www.udemy.com/course/bootstrap-4-desde-cero/
+
+Svelte - Crea 3 Aplicaciones con el framework del futuro
+https://www.udemy.com/course/curso-svelte/
+
+Sistema de Exámenes en linea con Codeigniter 3 y Bootstrap 4
+https://www.udemy.com/course/sistema-de-examenes-en-linea-con-codeigniter-3-y-bootstrap-4/
+
+HTML5 Desde Cero
+https://www.udemy.com/course/html5-desde-cero-udemy/
+
+Construye tu primer sitio web con HTML5 & CSS3 Puro
+https://www.udemy.com/course/construye-tu-primer-sitio-web-con-html5-css3-puro/
+
+Aprende Blazor Creando Videojuegos - El juego Blaze a Mole
+https://www.udemy.com/course/curso-blazor-gratis-videojuegos/
+
+Que es lineSTring en AppInventor
+https://www.udemy.com/course/que-es-linestring-en-appinventor/
+
+Crea Tu Página Web SIN Programar - Paso A Paso
+https://www.udemy.com/course/crear-pagina-web-sin-programar/
+
+Crea un sistema generador de temarios reordenable dinámico
+https://www.udemy.com/course/crea-un-sistema-generador-de-temarios-reordenable-dinamico/
+
+Sistema de Blog Básico en Codeigniter 3 (2021) - PARTE 1
+https://www.udemy.com/course/sistema-de-blog-basico-en-codeigniter-3-2021-parte-1/
+
+Aprende Bee framework 1.1.3 creando un organizador de tareas
+https://www.udemy.com/course/aprende-php-mysql-bee-framework-mvc-creando-un-organizador-de-tareas/
+
+Angular: Convierte tus template en Multi-Idiomas
+https://www.udemy.com/course/angular-convierte-tus-template-en-multi-idiomas/
+
+Sistema de Blog Básico en Codeigniter 3 (2021) - PARTE 2
+https://www.udemy.com/course/sistema-de-blog-basico-en-codeigniter-3-2021-parte-2/
+
+HTML5 para principiantes ¡Rockea con HTML5!
+https://www.udemy.com/course/html5-para-principiantes-rockea-con-html5/
+
+Desarrollar Sistema Facturación e Inventario en Php y MySql
+https://www.udemy.com/course/desarrollar-sistema-facturacion-e-inventario-en-php-y-mysql/
+
+WORDPRESS - Cómo crear páginas web para principiantes #3
+https://www.udemy.com/course/dominando-wordpress-paso-a-paso-y-desde-cero-3/
+
+Hosting, Dominio, SEO, SEM, Web Estática y Dinámica
+https://www.udemy.com/course/hosting-dominio-seo-sem-web-estatica-y-dinamica/
+
+WORDPRESS - Cómo crear páginas web para principiantes #2
+https://www.udemy.com/course/dominando-wordpress-paso-a-paso-y-desde-cero-2/
+
+Web Design for Web Developers: Build Beautiful Websites!
+https://www.udemy.com/course/web-design-secrets/
+
+Javascript Essentials
+https://www.udemy.com/course/javascript-essentials/
+
+Practical PHP: Master the Basics and Code Dynamic Websites
+https://www.udemy.com/course/code-dynamic-websites/
+
+Web Development By Doing: HTML / CSS From Scratch
+https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/
+
+Build Your First Website in 1 Week with HTML5 and CSS3
+https://www.udemy.com/course/build-your-first-website-in-1-week/
+
+Learn Angular 4 from Scratch
+https://www.udemy.com/course/learn-angular-from-scratch/
+
+Quickstart AngularJS 1.0 [First Version Of Angular]
+https://www.udemy.com/course/quickstart-angularjs-10-first-version-of-angular/
+
+Spring Framework And Dependency Injection For Beginners
+https://www.udemy.com/course/spring-framework-video-tutorial/
+
+Git & GitHub Crash Course: Create a Repository From Scratch!
+https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/
+
+Foundations of Front-End Web Development
+https://www.udemy.com/course/foundations-of-front-end-development/
+
+Bootstrap 4 Quick Start: Code Modern Responsive Websites
+https://www.udemy.com/course/bootstrap-4/
+
+Learn Angular 5 from Scratch
+https://www.udemy.com/course/angular-5/
+
+AngularJS For Beginners
+https://www.udemy.com/course/angularjs-for-beginners-udemy/
+
+Complete Bootstrap 4 course - build 3 projects
+https://www.udemy.com/course/bootstrap-4-tutorials/
+
+JavaScript Fundamentals
+https://www.udemy.com/course/javascriptfundamentals/
+
+Node JS API Development for Beginners
+https://www.udemy.com/course/node-js-api-tutorial/
+
+Beginning Oracle WebLogic for Administrators
+https://www.udemy.com/course/learn-oracle-weblogic-12c-essentials/
+
+Q&A and Tab sections using HTML, CSS and JavaScript (JS)
+https://www.udemy.com/course/web-development-projects/
+
+React JS Frontend Web Development for Beginners
+https://www.udemy.com/course/react-tutorial/
+
+CNC Programming with G Code for Beginners
+https://www.udemy.com/course/cnc-programming-for-beginners/
+
+Introduction to programming with Java
+https://www.udemy.com/course/introduction-to-programming-with-java/
+
+Devtools Pro: The Basics of Chrome Developer Tools
+https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/
+
+Vue.js Fast Crash Course
+https://www.udemy.com/course/vuejs-fast-crash-course/
+
+Getting Started with Angular 2+
+https://www.udemy.com/course/getting-started-with-angular-2/
+
+Beginner Photoshop to HTML5 and CSS3
+https://www.udemy.com/course/beginner-photoshop-to-html5-and-css3/
+
+Master the Basics of HTML5 & CSS3: Beginner Web Development
+https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/
+
+JavaScript Essentials 2020 Mini Course
+https://www.udemy.com/course/javascript-essentials-mini-course/
+
+Build a Quiz App with HTML, CSS, and JavaScript
+https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/
+
+MongooseJS Essentials - Learn MongoDB for Node.js
+https://www.udemy.com/course/mongoosejs-essentials/
+
+Learn HTML & CSS: How To Start Your Web Development Career
+https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/
+
+Introductory To JavaScript - Learn The Basics of JavaScript
+https://www.udemy.com/course/the_complete_javascript_course_for_beginners/
+
+Beginner VS Code
+https://www.udemy.com/course/beginner-vs-code/
+
+EMMET Faster HTML & CSS workflow - Best Tool For Developers
+https://www.udemy.com/course/emmet-start-coding-html-and-css-fast-and-easy/
+
+React vs Angular vs Vue.js by Example
+https://www.udemy.com/course/react-vs-angular-vs-vuejs-by-example/
+
+HTML for Beginners
+https://www.udemy.com/course/hmtl5-training/
+
+Angular for Beginners Course (includes FREE E-Book)
+https://www.udemy.com/course/angular-for-beginners-course/
+
