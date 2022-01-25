@@ -39,14 +39,8 @@ print("Driver 2 URL: " + driver2.current_url)
 
 # A dictionary that stores all the users with permissions to activate bot
 bot_users = {
-    "Carolina Silba": True,
-    "Manuel Díaz": True,
-    "Vice":True,
-    "Lucas Marino":True,
-    "Sol Benavides":True,
-    "Nicolas Fernandez Arana":True,
-    "Información automática":True,
-    "Pesege":True,
+    "USERS": True,
+   
 }
 
 # A dictionary of unauthorized and banned users

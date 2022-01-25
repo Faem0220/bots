@@ -8,7 +8,7 @@ browser.get(url)# Se accede a la página con un método get.
 
 
 time.sleep(15)# Se deja este tiempo de espera en el código para poder escanear el QR y acceder a la cuenta.30SEC
-user_name_list = ['Bot','Información automática','Sol Benavides']
+user_name_list = ['USERS']
 for user_name in user_name_list:
     #Se selecciona el objeto inspeccionando el html y copiando el xpath, se le asigna a una variable.
     user_name = browser.find_element_by_xpath('//span[@title="{}"]'.format(user_name))

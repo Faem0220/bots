@@ -37,12 +37,12 @@ driver2 = create_driver_session(session_id, executor_url)
 print("Driver 2 URL: " + driver2.current_url)
 # A dictionary that stores all the users with permissions to activate bot
 bot_users = {
-    "Carolina Silba": True,
+    "USER": True,
 }
 
 # A dictionary that stores those users that the bot already indicated them how to activate it
 bot_users_notification = {
-    "Carolina Silba": False,
+    "USER": False,
     
 }
 
