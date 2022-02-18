@@ -1,8 +1,10 @@
 from selenium import webdriver 
 from selenium.webdriver.support.ui import WebDriverWait
 import time
-
-driver = webdriver.Chrome(executable_path='/home/faem/dev/bots/selenium/chromedriver')
+options = webdriver.ChromeOptions()
+options.binary_location = '/Applications/Brave Browser.app/Contents/MacOS/Brave Browser'
+chrome_driver_binary = '/Users/faem/dev/bots/selenium/drivers/macOS/chromedriver'
+driver = webdriver.Chrome(executable_path=chrome_driver_binary,options=options)
 
 executor_url = driver.command_executor._url
 session_id = driver.session_id

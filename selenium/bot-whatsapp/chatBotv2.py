@@ -36,10 +36,11 @@ def create_driver_session(session_id, executor_url):
 
 driver2 = create_driver_session(session_id, executor_url)
 print("Driver 2 URL: " + driver2.current_url)
+print("Driver 2 Session: " + driver2.session_id)
 
 # A dictionary that stores all the users with permissions to activate bot
 bot_users = {
-    "USERS": True,
+    "Sample User",True,
    
 }
 
@@ -47,9 +48,10 @@ bot_users = {
 unauthorized_bot_users = {}
 message_count = 0
 while True:
+    print('Esperando mensajes ...')
     wait = WebDriverWait(driver2, 600)
     # Green dot for new messages---> Bug if conversation is already open.
-    unread = driver2.find_elements_by_class_name("_23LrM")
+    unread = driver2.find_elements_by_class_name("_1pJ9J")
     name, message = '', ''
     if len(unread) > 0:
         ele = unread[-1]
@@ -66,18 +68,18 @@ while True:
         try:
             # Contact name
             name = driver2.find_element_by_class_name("_2rlF7").text
-            print(name)
+            print('CONTACTO: '+name)
             # Last Message in chat
             message = driver2.find_elements_by_class_name("_1Gy50")[-1].text
-            print(message)
-
+            print('MSJ: '+message)
+            
             
             if name in bot_users:
                 if message.lower() == 'activar':
                     bot_users[name] = True
                 if bot_users[name]:
                     if message.lower() == 'acciones':
-                        text_box = driver2.find_element_by_xpath('/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div')
+                        text_box = driver2.find_element_by_xpath( '/html/body/div[1]/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div')
                         response = "Hola " + name + "!\n"\
                                             " El modo bot está activado\n" \
                                             "En qué puedo ayudarte:\n" \
@@ -85,48 +87,59 @@ while True:
                                             "-Para contar los caracteres de un texto escribe: contar=texto \n" \
                                             "-Para buscar un sonido aleatorio escribe: sonido \n" \
                                             "-Para desactivar el bot escribe: Desactivar\n"             
-                        text_box.send_keys(response + Keys.RETURN)
+                        text_box.send_keys(response + Keys.ENTER)
                         continue
                     if message.lower().startswith('espejo='):
-                        text_box = driver2.find_element_by_xpath('/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div')
+                        text_box = driver2.find_element_by_xpath( '/html/body/div[1]/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div')
+                        print('espejo')
                         response = ''.join(reversed(message[7:]))
-                        text_box.send_keys(response + Keys.RETURN)
+                        print('RESPONSE: '+ response)
+                        text_box.send_keys(response)
+                        sleep(1)
+                        text_box.send_keys(Keys.ENTER)
                         continue
 
                     if message.lower().startswith('contar='):
-                        text_box = driver2.find_element_by_xpath('/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div')
+                        text_box = driver2.find_element_by_xpath( '/html/body/div[1]/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div')
+                        print('contar')
                         response = str(len(message[7:].replace(' ','')))
-                        text_box.send_keys(response + Keys.RETURN)
+                        text_box.send_keys(response + Keys.ENTER)
+                        print('RESPONSE: '+ response)
                         continue
                     if message.lower().startswith('sonido'):
+                        text_box = driver2.find_element_by_xpath( '/html/body/div[1]/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div')
+                        print('sonido')
                         num = randint(1000,2400)
-                        text_box = driver2.find_element_by_xpath('/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div')
                         response = f'https://bigsoundbank.com/detail-{num}.html'
-                        text_box.send_keys(response + Keys.RETURN)
+                        print('RESPONSE: '+ response)
+                        text_box.send_keys(response + Keys.ENTER)
                         continue
                     
                     if message.lower() == 'desactivar':
-                        text_box = driver2.find_element_by_xpath('/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div')
+                        text_box = driver2.find_element_by_xpath( '/html/body/div[1]/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div')
                         response = ('Adios '+name+'. Vuelva prontos. Cuando quieras volver escribe: activar')
-                        text_box.send_keys(response + Keys.RETURN)
+                        print('RESPONSE: '+ response)
+                        text_box.send_keys(response + Keys.ENTER)
                         bot_users[name] = False
                     
                     if message.lower().startswith('sortear='):
-                        text_box = driver2.find_element_by_xpath('/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div')
+                        text_box = driver2.find_element_by_xpath( '/html/body/div[1]/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div')
+                        print('sortear')
                         response = sorted(message)
-                        text_box.send_keys(response + Keys.RETURN)
+                        print('RESPONSE: '+ response)
+                        text_box.send_keys(response + Keys.ENTER)
                         continue
-            
-
+        
                     else:
-                        text_box = driver2.find_element_by_xpath('/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div')
+                        text_box = driver2.find_element_by_xpath( '/html/body/div[1]/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div')
                         response = "No entiendo qué quieres decir.\n"\
                                     "Para ver qué puedo hacer escribe: acciones"
                         text_box.send_keys(response + Keys.RETURN)
                 else:
                     message_count += 1
                     if message_count == 3:
-                        text_box = driver2.find_element_by_xpath('/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[1]/div')
+                        text_box = driver2.find_element_by_xpath( '/html/body/div[1]/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div')
+                       
                         response = "----Modo bot desactivado.----\n"\
                                     " Para activar escribe: activar"
                         text_box.send_keys(response + Keys.RETURN)
