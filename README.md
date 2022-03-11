@@ -1,2 +1,2 @@
 # bots
-Automation scripts excercises using Selenium
+Automation scripts exercises using Selenium
